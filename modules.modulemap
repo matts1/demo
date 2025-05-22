@@ -1,0 +1,8 @@
+module user {
+    header "user.h"
+    export *
+}
+module lib {
+    header "lib.h"
+    export *
+}
