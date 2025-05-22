@@ -1,0 +1,7 @@
+module mbstate {
+    header "mbstate.h"
+}
+
+module wchar {
+    textual header "wchar.h"
+}
