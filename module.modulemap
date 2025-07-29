@@ -1,0 +1,10 @@
+// module.modulemap
+module first {
+  header "first.h"
+  export *
+}
+
+module second {
+  header "second.h"
+  export *
+}
