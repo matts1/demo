@@ -1,0 +1,14 @@
+module first [extern_c] {
+  header "first.h"
+  export *
+}
+
+module second [extern_c] {
+  header "second.h"
+  export *
+}
+
+module third {
+  header "third.h"
+  export *
+}
