@@ -1,0 +1,5 @@
+// module.modulemap
+module foobar {
+  module foo { header "foo.h" }
+  module bar { header "bar.h" }
+}
